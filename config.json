@@ -1,18 +1,30 @@
 {
-  "version": "2025-09-08T02:00:00Z",
+  "version": "2025-09-08T10:58:00+07:00",
   "ttlSeconds": 900,
+
   "theme": "dark",
-  "css": "https://cdn.example.com/themes/landing-dark.css",
+  "css": "",
+
   "hero": {
-    "headline": "BONUS 3% Setiap Deposit",
-    "sub": "JP pasti dibayar. Min depo 5.000",
-    "image": "https://cdn.example.com/images/hero-dark.jpg",
-    "alt": "Promo bonus 3 persen"
+    "headline": "KOKO138 : Website Resmi Daftar Game Slot Online Terbaru 2025",
+    "sub": "",
+    "image": "https://electriccityfc.com/images/koko138138.jpg",
+    "alt": "KOKO138"
   },
-  "cta": { "text": "DAFTAR SEKARANG", "url": "https://example.com/register" },
-  "banner": { "enabled": true, "html": "<strong>Event:</strong> Extra Spin 20.00–23.00 WIB" },
-  "slots": [
-    { "selector": "#benefit-1", "html": "<h3>WD Cepat</h3><p>Kurang dari 3 menit.</p>" },
-    { "selector": "#benefit-2", "html": "<h3>Tanpa Pola</h3><p>Main santai.</p>" }
-  ]
+
+  "cta": {
+    "registerText": "DAFTAR",
+    "registerUrl": "https://t.ly/kokokoko",
+    "loginText": "LOGIN",
+    "loginUrl": "https://t.ly/kokokoko"
+  },
+
+  "banner": {
+    "enabled": false,
+    "html": ""
+  },
+
+  "reviews": [],
+
+  "slots": []
 }
