@@ -1,0 +1,18 @@
+{
+  "version": "2025-09-08T02:00:00Z",
+  "ttlSeconds": 900,
+  "theme": "dark",
+  "css": "https://cdn.example.com/themes/landing-dark.css",
+  "hero": {
+    "headline": "BONUS 3% Setiap Deposit",
+    "sub": "JP pasti dibayar. Min depo 5.000",
+    "image": "https://cdn.example.com/images/hero-dark.jpg",
+    "alt": "Promo bonus 3 persen"
+  },
+  "cta": { "text": "DAFTAR SEKARANG", "url": "https://example.com/register" },
+  "banner": { "enabled": true, "html": "<strong>Event:</strong> Extra Spin 20.00–23.00 WIB" },
+  "slots": [
+    { "selector": "#benefit-1", "html": "<h3>WD Cepat</h3><p>Kurang dari 3 menit.</p>" },
+    { "selector": "#benefit-2", "html": "<h3>Tanpa Pola</h3><p>Main santai.</p>" }
+  ]
+}
